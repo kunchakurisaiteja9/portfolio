@@ -7,7 +7,7 @@ Email: kunchakurisaiteja9@gmail.com
 Phone: +1 (816) 409-6205
 
 
-LinkedIn: Saiteja Kunchakuri
+LinkedIn: [Saiteja Kunchakuri](https://kunchakurisaiteja9.github.io/portfolio/)
 
 Professional Summary
 
