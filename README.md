@@ -15,8 +15,8 @@ I'm a passionate software engineer dedicated to crafting innovative solutions an
 
 Let's Connect!
 
-Feel free to reach out for a chat about tech, food, travel, or anything under the sun! Connect with me on LinkedIn or drop me an email at kunchakurisaiteja9@gmail.com.
+Feel free to reach out for a chat about tech, food, travel, or anything under the sun! Connect with me on [LinkedIn](https://www.linkedin.com/in/saiteja-kunchakuri-6a29402aa/) or drop me an email at kunchakurisaiteja9@gmail.com.
 
-You can also explore more about me on my website: saitejakunchakuri
+You can also explore more about me on my website: [saitejakunchakuri](https://kunchakurisaiteja9.github.io/portfolio/)
 
 Thank you for stopping by and getting to know a bit about me beyond the professional realm!
