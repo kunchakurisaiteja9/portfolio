@@ -11,7 +11,7 @@ LinkedIn: Saiteja Kunchakuri
 
 Professional Summary
 
-I'm a passionate software engineer dedicated to crafting innovative solutions and embracing challenges with a positive attitude. Beyond coding, I find joy in exploring new cuisines, hiking trails, and capturing moments through photography. I am a Java developer with six years of experience in full-stack development. He specializes in backend programming, Spring Boot, and Java, contributing to successful e-commerce platforms and system migrations.
+I'm a passionate software engineer dedicated to crafting innovative solutions and embracing challenges with a positive attitude. Beyond coding, I find joy in exploring new cuisines, hiking trails, and capturing moments through photography. I am a Java developer with six years of experience in full-stack development. I specialize in backend programming, Spring Boot, and Java, contributing to successful e-commerce platforms and system migrations.
 
 Let's Connect!
 
